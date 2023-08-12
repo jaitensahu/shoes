@@ -16,7 +16,6 @@
 
 .navbar {
   position: sticky;
-  /* position: -webkit-sticky; */
   top: 0;
   width: 100%;
   padding: 15px;
@@ -110,7 +109,6 @@ form img {
   display: flex;
   gap: 4px;
   color: white;
-  /* padding: 2px; */
 }
 
 .trending-image div {
