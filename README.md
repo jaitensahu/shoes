@@ -1,4 +1,8 @@
 # shoes_webpage
+hosted link<br>
+https://jaitensahu.github.io/shoes_webpage/
+<br>
+
 ![shoe1](https://github.com/jaitensahu/shoes_webpage/assets/127736781/938bb1d9-c569-4a13-a0a0-74d1d647749c)
 <br>
 Used the title tag in the head section to get the desired title of the web page. and used the link tag to link the stylesheet to the HTML page
